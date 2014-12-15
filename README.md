@@ -6,6 +6,8 @@ This week I decided to do my exploration assignment on ruby on rails. I decided 
 
 Ruby is a pretty simple language to learn upfront. I like the overall simplicity of it, which makes it pretty fun to program in.
 
+I have developed this web app through codecademy which hosted all the ruby on rail files. I am currenlty 30% done with this course and as proof on concept I have attached an image in this repository. The framework of ruby on rails is taking a little time to get use to but I am very interested in learning more.
+
 Sources:
 http://www.codecademy.com/en/learn/make-a-rails-app/topics/ruby/
 http://rubyonrails.org/
