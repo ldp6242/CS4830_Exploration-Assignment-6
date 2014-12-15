@@ -10,5 +10,6 @@ Sources:
 http://www.codecademy.com/en/learn/make-a-rails-app/topics/ruby/
 
 Code Host:
+https://github.com/ldp6242/CS4830_Exploration-Assignment-6.git
 
 
