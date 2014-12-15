@@ -8,6 +8,13 @@ Ruby is a pretty simple language to learn upfront. I like the overall simplicity
 
 Sources:
 http://www.codecademy.com/en/learn/make-a-rails-app/topics/ruby/
+http://rubyonrails.org/
+
+Framework:
+http://rubyonrails.org/download/
+
+Documentation:
+http://rubyonrails.org/documentation/
 
 Code Host:
 https://github.com/ldp6242/CS4830_Exploration-Assignment-6.git
